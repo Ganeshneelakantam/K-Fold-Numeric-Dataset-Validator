@@ -1,6 +1,4 @@
-# K-Fold-Numeric-Dataset-Validator
-
-# K-Fold Cross Validation Flask Application
+# K-Fold Cross Validation Flask Application (Numeric-Dataset-Validator)
 
 This Flask application performs K-Fold Cross Validation on uploaded numeric datasets and evaluates machine learning models. It provides insights into the dataset and model performance through visualizations and metrics.
 
